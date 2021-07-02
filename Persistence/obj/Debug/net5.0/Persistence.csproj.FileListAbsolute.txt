@@ -1,0 +1,15 @@
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/carson/Desktop/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/carson/Desktop/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb

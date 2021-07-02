@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4m3KPte/GNgvYUgpXN1MJ7Qf1r1DfaWnTuz7xwKiZhSDRaAZI1oR/AeDCz22BHcJCz51BIFbdVKM51r3r2a1BQ==",
+  "success": true,
+  "projectFilePath": "/Users/carson/Desktop/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/carson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/carson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/carson/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/carson/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/carson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/carson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

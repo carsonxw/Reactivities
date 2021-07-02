@@ -1,0 +1,17 @@
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Persistence.dll
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/Users/carson/Desktop/Reactivities/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/carson/Desktop/Reactivities/Application/obj/Debug/net5.0/Application.pdb
