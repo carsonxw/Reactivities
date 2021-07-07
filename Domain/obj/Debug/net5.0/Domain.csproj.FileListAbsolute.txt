@@ -10,3 +10,15 @@
 /Users/carson/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
 /Users/carson/Desktop/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Users/carson/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/hochungwong/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/hochungwong/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/hochungwong/Desktop/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/hochungwong/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/hochungwong/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

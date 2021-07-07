@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/carson/Desktop/Reactivities/Application/Application.csproj": {}
+    "/Users/hochungwong/Desktop/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/carson/Desktop/Reactivities/Application/Application.csproj": {
+    "/Users/hochungwong/Desktop/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carson/Desktop/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/Users/hochungwong/Desktop/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/carson/Desktop/Reactivities/Application/Application.csproj",
-        "packagesPath": "/Users/carson/.nuget/packages/",
-        "outputPath": "/Users/carson/Desktop/Reactivities/Application/obj/",
+        "projectPath": "/Users/hochungwong/Desktop/Reactivities/Application/Application.csproj",
+        "packagesPath": "/Users/hochungwong/.nuget/packages/",
+        "outputPath": "/Users/hochungwong/Desktop/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/carson/.nuget/NuGet/NuGet.Config"
+          "/Users/hochungwong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj"
+              "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj"
               },
-              "/Users/carson/Desktop/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/carson/Desktop/Reactivities/Persistence/Persistence.csproj"
+              "/Users/hochungwong/Desktop/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/hochungwong/Desktop/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -63,17 +63,17 @@
         }
       }
     },
-    "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj": {
+    "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj",
-        "packagesPath": "/Users/carson/.nuget/packages/",
-        "outputPath": "/Users/carson/Desktop/Reactivities/Domain/obj/",
+        "projectPath": "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/hochungwong/.nuget/packages/",
+        "outputPath": "/Users/hochungwong/Desktop/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/carson/.nuget/NuGet/NuGet.Config"
+          "/Users/hochungwong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -115,17 +115,17 @@
         }
       }
     },
-    "/Users/carson/Desktop/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/hochungwong/Desktop/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carson/Desktop/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/hochungwong/Desktop/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/carson/Desktop/Reactivities/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/carson/.nuget/packages/",
-        "outputPath": "/Users/carson/Desktop/Reactivities/Persistence/obj/",
+        "projectPath": "/Users/hochungwong/Desktop/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/hochungwong/.nuget/packages/",
+        "outputPath": "/Users/hochungwong/Desktop/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/carson/.nuget/NuGet/NuGet.Config"
+          "/Users/hochungwong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -137,8 +137,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/carson/Desktop/Reactivities/Domain/Domain.csproj"
+              "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/hochungwong/Desktop/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -152,6 +152,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
